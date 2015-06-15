@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AxelShutter</string>
+    <string name="error">Unable to load images %s</string>
+</resources>
